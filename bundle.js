@@ -447,7 +447,7 @@ webpackJsonp([0],[
 
 
 	// module
-	exports.push([module.id, "h1 {\n  color: #954535;\n  font-family: Cursive;\n}\n\nbody {\n  font-family: Arial;\n  text-align: center;\n}\n\n.ingrieds:nth-child(1) {\n  color: red;\n}\n\n.ingrieds:nth-child(2) {\n  color: blue;\n}\n\n.ingrieds:nth-child(3) {\n  color: green;\n}\n\n.ingrieds:nth-child(4) {\n  color: pink;\n}\n\n.ingrieds:nth-child(5) {\n  color: yellow;\n}\n\n.ingrieds:nth-child(6) {\n  color: orange;\n}\n\n.ingrieds:nth-child(7) {\n  color: magenta;\n}\n\n.ingrieds:nth-child(8) {\n  color: teal;\n}\n\n.ingrieds:nth-child(9) {\n  color: white;\n}\n\n.ingrieds:nth-child(10) {\n  color: #017;\n}\n", ""]);
+	exports.push([module.id, "h1 {\n  color: #954535;\n  font-family: Cursive;\n}\n\nbody {\n  font-family: Arial;\n  text-align: center;\n}\n\nul {\n  list-style-type: none;\n}\n.ingrieds:nth-child(1) {\n  color: red;\n}\n\n.ingrieds:nth-child(2) {\n  color: blue;\n}\n\n.ingrieds:nth-child(3) {\n  color: green;\n}\n\n.ingrieds:nth-child(4) {\n  color: pink;\n}\n\n.ingrieds:nth-child(5) {\n  color: yellow;\n}\n\n.ingrieds:nth-child(6) {\n  color: orange;\n}\n\n.ingrieds:nth-child(7) {\n  color: magenta;\n}\n\n.ingrieds:nth-child(8) {\n  color: teal;\n}\n\n.ingrieds:nth-child(9) {\n  color: white;\n}\n\n.ingrieds:nth-child(10) {\n  color: #017;\n}\n", ""]);
 
 	// exports
 
