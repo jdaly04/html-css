@@ -1,0 +1,49 @@
+h1 {
+  color: #954535;
+  font-family: Cursive;
+}
+
+body {
+  font-family: Arial;
+  text-align: center;
+}
+
+.ingrieds:nth-child(1) {
+  color: red;
+}
+
+.ingrieds:nth-child(2) {
+  color: blue;
+}
+
+.ingrieds:nth-child(3) {
+  color: green;
+}
+
+.ingrieds:nth-child(4) {
+  color: pink;
+}
+
+.ingrieds:nth-child(5) {
+  color: yellow;
+}
+
+.ingrieds:nth-child(6) {
+  color: orange;
+}
+
+.ingrieds:nth-child(7) {
+  color: magenta;
+}
+
+.ingrieds:nth-child(8) {
+  color: teal;
+}
+
+.ingrieds:nth-child(9) {
+  color: white;
+}
+
+.ingrieds:nth-child(10) {
+  color: #017;
+}
