@@ -11,6 +11,10 @@ body {
 ul {
   list-style-type: none;
 }
+
+ol {
+  list-style-type: none;
+}
 .ingrieds:nth-child(1) {
   color: red;
 }
